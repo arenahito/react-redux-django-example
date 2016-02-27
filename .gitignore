@@ -17,7 +17,7 @@ dist/
 /webpack-stats-dev.json
 /webpack-stats-prod.json
 /.idea
-/react_redux_django_example.iml
+/*.iml
 downloads/
 eggs/
 .eggs/
